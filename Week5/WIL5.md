@@ -109,11 +109,11 @@ _Stateful위젯에서 StatelessWidget을 build할 때, 넣는 인자값이 바�
 이로인해 발생하는 상태문제를 해결하기 위해 사용되는 state Manager에 대하여 공부해보았다.
 
 참고문헌
-[NOGUEN 블로그](https://noguen.tistory.com/24)
-[Flutter-공식문서](https://docs.flutter.dev/data-and-backend/state-mgmt/options#triple-pattern-segmented-state-pattern)
-[깡샘의 토마토](https://kkangsnote.tistory.com/247)
-[DeKu](https://deku.posstree.com/ko/flutter/provider/)
-[플러터 Riverpod로 상태관리 하기](https://medium.com/uplusdevu/%ED%94%8C%EB%9F%AC%ED%84%B0-riverpod%EB%A1%9C-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0-cd164f0644e5)
-[stone1098.log](https://velog.io/@stone1098/%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-Bloc)
-[dosilv.log](https://velog.io/@dosilv/Flutter-GetX%EB%A1%9C-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
+[NOGUEN 블로그](https://noguen.tistory.com/24)<br/>
+[Flutter-공식문서](https://docs.flutter.dev/data-and-backend/state-mgmt/options#triple-pattern-segmented-state-pattern)<br/>
+[깡샘의 토마토](https://kkangsnote.tistory.com/247)<br/>
+[DeKu](https://deku.posstree.com/ko/flutter/provider/)<br/>
+[플러터 Riverpod로 상태관리 하기](https://medium.com/uplusdevu/%ED%94%8C%EB%9F%AC%ED%84%B0-riverpod%EB%A1%9C-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0-cd164f0644e5)<br/>
+[stone1098.log](https://velog.io/@stone1098/%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-Bloc)<br/>
+[dosilv.log](https://velog.io/@dosilv/Flutter-GetX%EB%A1%9C-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)<br/>
 [나요의 튜토리얼](https://nayotutorial.tistory.com/88)

@@ -108,7 +108,7 @@ _Stateful위젯에서 StatelessWidget을 build할 때, 넣는 인자값이 바�
 이렇게 오늘은 State에 대한 개념과 StatelessWidget, StatefullWidget에 대하여 공부하였고,<br/>
 이로인해 발생하는 상태문제를 해결하기 위해 사용되는 state Manager에 대하여 공부해보았다.
 
-참고문헌
+참고문헌<br/>
 [NOGUEN 블로그](https://noguen.tistory.com/24)<br/>
 [Flutter-공식문서](https://docs.flutter.dev/data-and-backend/state-mgmt/options#triple-pattern-segmented-state-pattern)<br/>
 [깡샘의 토마토](https://kkangsnote.tistory.com/247)<br/>
